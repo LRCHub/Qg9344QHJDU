@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "樹愛羅、助けに来たぞ",
+  "base_artist": "=LOVE",
+  "createdAt": "2026-02-25T05:02:43.101532Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "樹愛羅、助けに来たぞ",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_樹愛羅、助けに来たぞ_=LOVE.txt"
+    }
+  ]
+}
